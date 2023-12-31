@@ -3,8 +3,6 @@
 // http://localhost:3000/comments/1
 // http://localhost:3000/comments/2
 // http://localhost:3000/comments/3
-// http://localhost:3000/comments/4
-// http://localhost:3000/comments/5
 
 var express = require('express');
 var app = express();
